@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
     description1: "My name's Md. Shahnewaz. I'm a web designer and developer based in Dhaka, Bangladesh.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description2: "I Design, Develop and Deploy Web Applications. From concept, navigation, layout and programming to UX and SEO as a MERN Stack Web Developer. Skilled at writing well-designed, Testable and efficient code using current best practices in Web development. 1+ years of experience of studying and working on several Web application projects design and development. Quick learner. Available for hire.",
     image: 2
 }
