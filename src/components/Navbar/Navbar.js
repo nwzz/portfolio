@@ -212,8 +212,9 @@ function Navbar() {
                         </Fade>
 
                         <Fade left>
-                            <NavLink
-                                to='/#resume'
+                            <a
+                                //to='/#resume'
+                                href='https://drive.google.com/file/d/121zfSOJ9mlsNn6LgdioMENijWMen0vxe/view'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -226,7 +227,7 @@ function Navbar() {
                                         Resume
                                     </span>
                                 </div>
-                            </NavLink>
+                            </a>
                         </Fade>
 
                         <Fade left>
@@ -247,7 +248,7 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade left>
+                        {/* <Fade left>
                             <NavLink
                                 to='/#blog'
                                 smooth={true}
@@ -263,7 +264,7 @@ function Navbar() {
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade>
+                        </Fade> */}
 
                         <Fade left>
                             <NavLink
