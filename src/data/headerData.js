@@ -2,7 +2,7 @@
 
 export const headerData = {
   name: "Shahnewaz",
-  title: "MERN Stack Developer",
+  title: "Junior MERN Stack Developer",
   desciption:
     "I'm a Web Developer by Profession & Hobby. I Design, Develop, and Deploy Web Applications. From concept, navigation, layout and programming to UX and SEO as a MERN Stack Web Developer.",
   image: "https://i.ibb.co/G5VjgBt/shahnewaz.jpg",
