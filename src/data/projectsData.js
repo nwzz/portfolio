@@ -10,23 +10,34 @@ import eight from "../assets/svg/projects/eight.svg";
 export const projectsData = [
   {
     id: 1,
+    projectName: "Cake Island",
+    projectDesc:
+      "This project aims to build a multi-vendor Cake selling website all type of functionalities implemented Users make and update profiles, add to cart, place orders with shipping information includes. ",
+    tags: [
+      "React.js",
+      "React Query",
+      "TailwindCSS",
+      "Axios",
+      "Node.js",
+      "Express.js",
+      "Mongoose",
+      "MongoDB",
+    ],
+    code: "",
+    demo: "https://cake-island.netlify.app/",
+    image: one,
+  },
+  {
+    id: 2,
     projectName: "e-furniture-shop",
     projectDesc:
       "This project aims to build a furniture selling e-commerce website all type of functionalities implemented Users make and update profiles, add to cart, place orders with shipping information includes. ",
     tags: ["React", " TailwindCSS", "Mongoose", "Node.js"],
     code: "",
     demo: "https://e-furniture-shop.netlify.app/",
-    image: one,
-  },
-  {
-    id: 2,
-    projectName: "Nwzz-TourPacker",
-    projectDesc: "This is a Tour Booking and travel agency related project.",
-    tags: ["React", " Bootstrap 4", "Mongoose", "Node.js"],
-    code: "",
-    demo: "https://nwzz-tourpacker.web.app/",
     image: two,
   },
+
   {
     id: 3,
     projectName: "Shoes-Gallery",
@@ -38,21 +49,14 @@ export const projectsData = [
   },
   {
     id: 4,
-    projectName: "Baby Shop",
-    projectDesc:
-      "This project involves the development of an Web application for viewing and managing multiple baby items. This is a E-Commerce Website Admin can add, edit and delete products. ",
-    tags: [
-      "React",
-      " Bootstrap 4",
-      "Mongoose",
-      "Node.js",
-      "Firebase",
-      "MongoDB",
-    ],
-    code: "  ",
-    demo: "https://nwzz-baby-shop.netlify.app/",
+    projectName: "Nwzz-TourPacker",
+    projectDesc: "This is a Tour Booking and travel agency related project.",
+    tags: ["React", " Bootstrap 4", "Mongoose", "Node.js"],
+    code: "",
+    demo: "https://nwzz-tourpacker.web.app/",
     image: four,
   },
+
   {
     id: 5,
     projectName: "E-Commerce App",
